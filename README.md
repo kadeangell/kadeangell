@@ -8,5 +8,5 @@ Previously, I've interned for [NASA's Jet Propulsion Laboratory](jpl.nasa.gov) a
 
 I am full-stack web developer and an embedded software engineer.
 
-![](https://raw.githubusercontent.com/ArKade523/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ArKade523/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kadeangell/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kadeangell/github-stats/master/generated/languages.svg#gh-dark-mode-only)
